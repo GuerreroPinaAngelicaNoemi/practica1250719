@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practica1250719</string>
+    <string name="app_Ingcontrol">Ingrese No control</string>
+    <string name="app_ncontrol">Nocontrol</string>
+    <string name="app_Ingnom">Ingrese Nombre</string>
+    <string name="app_nombre">Nombre</string>
+    <string name="app_IngApellido">Ingrese Apellido</string>
+    <string name="app_Apellido">Apellido</string>
+    <string name="app_Ing">Registro</string>
+    <string name="app_Borra">Borrar</string>
+    <string name="app_Mod">Modificar</string>
+    <string name="app_Bus">Buscar</string>
+
+</resources>
